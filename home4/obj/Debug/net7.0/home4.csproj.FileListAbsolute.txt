@@ -1,0 +1,15 @@
+C:\Users\adasd\OneDrive\Рабочий стол\baba\home4\bin\Debug\net7.0\home4.exe
+C:\Users\adasd\OneDrive\Рабочий стол\baba\home4\bin\Debug\net7.0\home4.deps.json
+C:\Users\adasd\OneDrive\Рабочий стол\baba\home4\bin\Debug\net7.0\home4.runtimeconfig.json
+C:\Users\adasd\OneDrive\Рабочий стол\baba\home4\bin\Debug\net7.0\home4.dll
+C:\Users\adasd\OneDrive\Рабочий стол\baba\home4\bin\Debug\net7.0\home4.pdb
+C:\Users\adasd\OneDrive\Рабочий стол\baba\home4\obj\Debug\net7.0\home4.csproj.AssemblyReference.cache
+C:\Users\adasd\OneDrive\Рабочий стол\baba\home4\obj\Debug\net7.0\home4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adasd\OneDrive\Рабочий стол\baba\home4\obj\Debug\net7.0\home4.AssemblyInfoInputs.cache
+C:\Users\adasd\OneDrive\Рабочий стол\baba\home4\obj\Debug\net7.0\home4.AssemblyInfo.cs
+C:\Users\adasd\OneDrive\Рабочий стол\baba\home4\obj\Debug\net7.0\home4.csproj.CoreCompileInputs.cache
+C:\Users\adasd\OneDrive\Рабочий стол\baba\home4\obj\Debug\net7.0\home4.dll
+C:\Users\adasd\OneDrive\Рабочий стол\baba\home4\obj\Debug\net7.0\refint\home4.dll
+C:\Users\adasd\OneDrive\Рабочий стол\baba\home4\obj\Debug\net7.0\home4.pdb
+C:\Users\adasd\OneDrive\Рабочий стол\baba\home4\obj\Debug\net7.0\home4.genruntimeconfig.cache
+C:\Users\adasd\OneDrive\Рабочий стол\baba\home4\obj\Debug\net7.0\ref\home4.dll
